@@ -29,7 +29,6 @@ The keyboard control script allows you to move the WaveRover using the WASD keys
 - **1** : Switch to slow mode 
 - **2** : Switch to medium mode 
 - **3** : Switch to fast mode 
-- **ESC** : Exit the control program
 
 
 ## Usage 
