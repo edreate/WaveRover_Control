@@ -36,7 +36,8 @@ The keyboard control script allows you to move the WaveRover using the WASD keys
 1. Clone this repository to your local machine.
 
 ```bash
-git clone [https://github.com/yourusername/waverrover-control.git](https://github.com/edreate/WaveRover_Control)
+git clone https://github.com/yourusername/waverrover-control.git
+
 cd WaveRover_Control
 ```
 
