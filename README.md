@@ -46,7 +46,7 @@ cd WaveRover_Control
 4. Run the script:
 
 ```bash
-python control.py
+python keyboard_control.py
 ```
 
 You should see the message "Rover control started. Use WASD to move. Press 1 for slow, 2 for medium, 3 for fast. Press ESC to exit."
