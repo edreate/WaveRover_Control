@@ -55,5 +55,5 @@ You should see the message "Rover control started. Use WASD to move. Press 1 for
 Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE]()  file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/edreate/WaveRover_Control/blob/main/LICENSE)  file for details.
 
